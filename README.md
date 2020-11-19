@@ -1,3 +1,2 @@
 # Sculptor
- Primeiro projeto de Programação Avançada
- Aluno: Lucas Cunha Alves
+ Primeiro projeto de Programação Avançada do aluno Lucas Cunha Alves
